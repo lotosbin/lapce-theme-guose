@@ -1,0 +1,7 @@
+name = "guose"
+display-name = "China Color"
+description = "China Color Theme"
+version = "0.1"
+author = "bin^2"
+repository = "https://github.com/lotosbin/lapce-theme-guose"
+themes = ["guose.toml"]
