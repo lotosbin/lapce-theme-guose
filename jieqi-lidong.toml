@@ -1,18 +1,18 @@
 [color-theme]
-name = "guose"
+name = "lidong"
 
 [color-theme.base]
-white = "#d6ecf0"
-black = "#392f41"
-grey = "#758a99"
-blue = "#70f3ff"
-red = "#ff2d51"
-yellow = "#fff143"
-orange = "#ffa400"
-green = "#0ed048"
-purple = "#ff4777"
-cyan = "#3eede7"
-magenta = "#ed5736"
+white = "#FFFBC7"
+black = "#5A4C3B"
+grey = "#6d5c3d"
+blue = "#3d8e86"
+red = "#662b2f"
+yellow = "#D6C560"
+orange = "#ece093"
+green = "#5da39d"
+purple = "#81474c"
+cyan = "#206864"
+magenta = "#a88787"
 
 [color-theme.syntax]
 attribute = "$yellow"
